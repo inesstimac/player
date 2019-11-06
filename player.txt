@@ -1,0 +1,1 @@
+{'first_name': 'Kevin', 'last_name': 'Durant', 'height': '207', 'weight': '104', 'points': '61', 'rebounds': '7', 'assists': '31'}
